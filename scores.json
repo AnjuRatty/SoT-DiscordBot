@@ -1,0 +1,230 @@
+{
+  "iudex_maximus": {
+    "TeamLumine": {
+      "total": 208,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 26,
+        "Floor12_1": 26,
+        "Floor9_2": 26,
+        "Floor10_2": 26,
+        "Floor11_2": 26,
+        "Floor12_2": 26
+      }
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "mrlottle": {
+    "TeamLumine": {
+      "total": 0
+    },
+    "TeamAether": {
+      "total": 80,
+      "photoHunt": 80
+    }
+  },
+  "heiscaramouchie": {
+    "TeamLumine": {
+      "total": 0
+    },
+    "TeamAether": {
+      "total": 646,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 26,
+        "Floor12_1": 26,
+        "Floor9_2": 26,
+        "Floor10_2": 26,
+        "Floor11_2": 26,
+        "Floor12_2": 24
+      },
+      "photoHunt": 440
+    }
+  },
+  "MazesOrion#6767": {
+    "TeamLumine": {
+      "total": 140,
+      "photoHunt": 140
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "annymone": {
+    "TeamLumine": {
+      "total": 578,
+      "photoHunt": 390,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 26,
+        "Floor12_1": 18,
+        "Floor9_2": 26,
+        "Floor10_2": 26,
+        "Floor11_2": 22,
+        "Floor12_2": 18
+      }
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "nervv_": {
+    "TeamLumine": {
+      "total": 0
+    },
+    "TeamAether": {
+      "total": 206,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 26,
+        "Floor12_1": 26,
+        "Floor9_2": 26,
+        "Floor10_2": 26,
+        "Floor11_2": 26,
+        "Floor12_2": 24
+      }
+    }
+  },
+  "lunianna": {
+    "TeamLumine": {
+      "total": 168,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 18,
+        "Floor12_1": 18,
+        "Floor9_2": 0,
+        "Floor10_2": 0,
+        "Floor11_2": 0,
+        "Floor12_2": 0
+      },
+      "photoHunt": 80
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "kab3to": {
+    "TeamLumine": {
+      "total": 0
+    },
+    "TeamAether": {
+      "total": 70,
+      "photoHunt": 70
+    }
+  },
+  "rosé": {
+    "TeamLumine": {
+      "total": 158,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 26,
+        "Floor12_1": 26,
+        "Floor9_2": 18,
+        "Floor10_2": 18,
+        "Floor11_2": 18,
+        "Floor12_2": 0
+      }
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "_.dazed._": {
+    "TeamLumine": {
+      "total": 0
+    },
+    "TeamAether": {
+      "total": 204,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 26,
+        "Floor12_1": 22,
+        "Floor9_2": 26,
+        "Floor10_2": 26,
+        "Floor11_2": 26,
+        "Floor12_2": 26
+      }
+    }
+  },
+  "lothr3c": {
+    "TeamLumine": {
+      "total": 104,
+      "abyss": {
+        "Floor9_1": 26,
+        "Floor10_1": 26,
+        "Floor11_1": 26,
+        "Floor12_1": 26,
+        "Floor9_2": 0,
+        "Floor10_2": 0,
+        "Floor11_2": 0,
+        "Floor12_2": 0
+      }
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "a11e": {
+    "TeamLumine": {
+      "total": 80,
+      "photoHunt": 80
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "reinali": {
+    "TeamLumine": {
+      "total": 80,
+      "photoHunt": 80
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  },
+  "princessdazaiosamu": {
+    "TeamLumine": {
+      "total": 0
+    },
+    "TeamAether": {
+      "total": 54,
+      "abyss": {
+        "Floor9_1": 0,
+        "Floor10_1": 0,
+        "Floor11_1": 0,
+        "Floor12_1": 0,
+        "Floor9_2": 18,
+        "Floor10_2": 18,
+        "Floor11_2": 18,
+        "Floor12_2": 0
+      }
+    }
+  },
+  "neongods": {
+    "TeamLumine": {
+      "total": 18,
+      "abyss": {
+        "Floor9_1": 0,
+        "Floor10_1": 0,
+        "Floor11_1": 0,
+        "Floor12_1": 0,
+        "Floor9_2": 0,
+        "Floor10_2": 0,
+        "Floor11_2": 0,
+        "Floor12_2": 18
+      }
+    },
+    "TeamAether": {
+      "total": 0
+    }
+  }
+}

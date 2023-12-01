@@ -1,0 +1,16 @@
+{
+  "name": "not-dazed",
+  "version": "1.0.0",
+  "description": "A Mod tool for Society of Teyvat Discord Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Anjula Ratnayaka",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^1.7.1",
+    "discord-api-types": "^0.37.47",
+    "discord.js": "^13.16.0"
+  }
+}
