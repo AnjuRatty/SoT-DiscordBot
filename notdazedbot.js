@@ -170,22 +170,22 @@ const commands = [
         description: 'The floor (Floor9, Floor10, Floor11, or Floor12)',
         required: true,
         choices: [
-          // {
-          //   name: 'Floor 9 - 1st week',
-          //   value: 'Floor9_1',
-          // },
-          // {
-          //   name: 'Floor 10 - 1st week',
-          //   value: 'Floor10_1',
-          // },
-          // {
-          //   name: 'Floor 11 - 1st week',
-          //   value: 'Floor11_1',
-          // },
-          // {
-          //   name: 'Floor 12 - 1st week',
-          //   value: 'Floor12_1',
-          // },
+          {
+            name: 'Floor 9 - 1st week',
+            value: 'Floor9_1',
+          },
+          {
+            name: 'Floor 10 - 1st week',
+            value: 'Floor10_1',
+          },
+          {
+            name: 'Floor 11 - 1st week',
+            value: 'Floor11_1',
+          },
+          {
+            name: 'Floor 12 - 1st week',
+            value: 'Floor12_1',
+          },
           {
             name: 'Floor 9 - 3rd week',
             value: 'Floor9_2',
@@ -201,7 +201,7 @@ const commands = [
           {
             name: 'Floor 12 - 3rd week',
             value: 'Floor12_2',
-          },
+          }
         ],
       },
       {
