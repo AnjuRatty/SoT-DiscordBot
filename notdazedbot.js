@@ -3,9 +3,9 @@ const { Client, Intents } = require('discord.js');
 const { REST } = require('@discordjs/rest');
 const { Routes } = require('discord-api-types/v9');
 
-const clientId = '1127299751264661514';
-const guildId = '856248013679886417';
-const token = 'MTEyNzI5OTc1MTI2NDY2MTUxNA.GZU1PJ.R2NydRM5YYlfZm7mYP1K2Dl9nLsnXvqNWJchNU';
+const clientId = '';
+const guildId = '';
+const token = '';
 
 let scores = {};
 let abyssSettings = {
